@@ -1,0 +1,20 @@
+{
+  "name": "OT Claim Lock",
+  "id": "ot-claim-lock",
+  "version": "1.2.0",
+  "startFile": "index.ts",
+  "enabled": true,
+  "priority": 10,
+  "events": [],
+  "npmDependencies": [],
+  "requiredPlugins": [],
+  "incompatiblePlugins": [],
+  "details": {
+    "author": "youssef",
+    "shortDescription": "Lock ticket to a single claimer and hide it from other ticket admins without Administrator.",
+    "longDescription": "Prevents double-claims. When claimed, configured ticket-admin roles without Administrator permission are hidden. Restores access on unclaim.",
+	"imageUrl":"",
+    "projectUrl":"",
+    "tags":["role","management","utility"]
+  }
+}
