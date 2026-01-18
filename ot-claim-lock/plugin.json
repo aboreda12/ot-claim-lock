@@ -1,7 +1,7 @@
 {
   "name": "OT Claim Lock",
   "id": "ot-claim-lock",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "startFile": "index.ts",
   "enabled": true,
   "priority": 10,
@@ -18,3 +18,4 @@
     "tags":["role","management","utility"]
   }
 }
+
